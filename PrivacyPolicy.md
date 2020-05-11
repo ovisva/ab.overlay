@@ -1,13 +1,13 @@
-# Privacy Policy for 'Volontario Phase 2'
+# Privacy Policy for AbOverlay
 
 
-Thank you for downloading 'Volontario Phase 2' app. 'Volontario Phase 2' was developed by VA, and is owned and operated by, VA.
+Thank you for downloading AbOverlay app. AbOverlay was developed by VA, and is owned and operated by, VA.
 
-It is the policy of VA to respect your privacy, and the privacy of all users of our applications. This Privacy Policy (the “Policy”) has been established to help you understand our commitment to protecting your privacy, and the steps we take to ensure it. This Policy was last modified on May 11, 2020. VA reserves the right, at any time and without prior notice, to modify the Policy.
+It is the policy of VA to respect your privacy, and the privacy of all users of our applications. This Privacy Policy (the “Policy”) has been established to help you understand our commitment to protecting your privacy, and the steps we take to ensure it. This Policy was last modified on October 12, 2017. VA reserves the right, at any time and without prior notice, to modify the Policy.
 
 Your privacy is very important to us and we want you to know everything we do and don’t do with the information you provide. Our guiding principle is that any information we collect from you will be treated with the utmost care and respect, and every effort will be made to ensure the information is kept private.
 
-For purposes of the Policy, “Application” refers to 'Volontario Phase 2' as the case may be. Application also includes any Application updates and upgrades that VA may provide to you or make available to you, or that you obtain after the date you obtain your initial copy of the Application, to the extent that such items are not accompanied by a separate Privacy Policy.
+For purposes of the Policy, “Application” refers to AbOverlay as the case may be. Application also includes any Application updates and upgrades that VA may provide to you or make available to you, or that you obtain after the date you obtain your initial copy of the Application, to the extent that such items are not accompanied by a separate Privacy Policy.
 
 Where the present Policy refers to “VA”, it may refer to the Application or VA or both, depending on the context.
 
@@ -29,7 +29,7 @@ Any information or data the Application collects may be stored locally on your d
 
 ## Limited Gathering of Information for Statistical Purposes
 
-Where you have downloaded 'Volontario Phase 2', VA may automatically collect certain information using third-party programs to help us understand how our users use the Application, but none of this information identifies you personally. VA may use Google Analytics (see http://www.google.com/analytics/) or Google Firebase Analytics (see https://firebase.google.com/features/analytics/) or Flurry (see http://www.flurry.com/) other similar services to collect such information. For more information about VA’s use of Google Analytics, please see the “Third Party Advertisements” section below.
+Where you have downloaded AbOverlay, VA may automatically collect certain information using third-party programs to help us understand how our users use the Application, but none of this information identifies you personally. VA may use Google Analytics (see http://www.google.com/analytics/) or Google Firebase Analytics (see https://firebase.google.com/features/analytics/) or Flurry (see http://www.flurry.com/) other similar services to collect such information. For more information about VA’s use of Google Analytics, please see the “Third Party Advertisements” section below.
 
 ##Non-disclosure of Personal Information
 
@@ -47,7 +47,7 @@ You can access and change user settings from the options/settings menu on your d
 
 ## Permissions
 
-The following is a complete listing and description of what functions on the Device are accessed and / or modified by the Application. Unless otherwise indicated, the permission applies 'Volontario Phase 2':
+The following is a complete listing and description of what functions on the Device are accessed and / or modified by the Application. Unless otherwise indicated, the permission applies AbOverlay:
 
 ### ACCESS MICROPHONE
 
